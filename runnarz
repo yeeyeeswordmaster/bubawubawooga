@@ -2188,6 +2188,7 @@ function run(Player)
 							["z"] = 1.2630000114440918
 						}
 					},
+				},
 				Main = {},
 				Limbs = {
 					["Left Leg Mesh"] = {
@@ -2433,7 +2434,7 @@ function run(Player)
 			CurrentClothes = {},
 			PartList = Function.PartListDefault(),
 			BreastsScale = 2,
-			ButtsScale = 4,
+			ButtsScale = 100,
 			BodyPartPhysics = true,
 			CurrentPartList = {
 				Organ = {},
