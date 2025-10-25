@@ -2186,9 +2186,14 @@ function run(Player)
 							["y"] = 1.2389999628067017,
 							["x"] = 1.2519999742507935,
 							["z"] = 1.2630000114440918
-						}
-					},
-				},
+                        },
+						["Physics"] = {
+							["PhysicsRotationOffset"] = {
+								X = "X",
+								Y = "Z",
+								Z = "Y",
+							},
+						},
 				Main = {},
 				Limbs = {
 					["Left Leg Mesh"] = {
