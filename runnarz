@@ -232,7 +232,7 @@ function run(Player)
 					},
 					["TorsoMesh"] = {
 						["Instance"] = "Mesh",
-						["MeshId"] = "rbxassetid://80282347539940",
+						["MeshId"] = "rbxassetid://109707978533840",
 						["Color"] = "Base",
 						["Function"] = {},
 						["Transparency"] = 1,
@@ -1121,7 +1121,7 @@ function run(Player)
 
 					["TorsoMesh2"] = {
 						["Instance"] = "Mesh",
-						["MeshId"] = "rbxassetid://80282347539940",
+						["MeshId"] = "rbxassetid://109707978533840",
 						["Color"] = "Base",
 						["Function"] = {},
 						["Transparency"] = 0,
@@ -1168,7 +1168,7 @@ function run(Player)
 
 					["ShirtTexture"] = {
 						["Instance"] = "Mesh",
-						["MeshId"] = "rbxassetid://80282347539940",
+						["MeshId"] = "rbxassetid://109707978533840",
 						["Color"] = "Base",
 						["Function"] = {},
 						["Transparency"] = 1,
@@ -1215,7 +1215,7 @@ function run(Player)
 					},
 					["PantsTexture"] = {
 						["Instance"] = "Mesh",
-						["MeshId"] = "rbxassetid://80282347539940",
+						["MeshId"] = "rbxassetid://109707978533840",
 						["Color"] = "Base",
 						["Function"] = {},
 						["Transparency"] = 1,
