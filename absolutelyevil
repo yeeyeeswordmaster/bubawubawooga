@@ -8,7 +8,7 @@ writefile("Moon Convert/drill.mp3", game:HttpGet("https://github.com/CatThatDrin
 loadstring(game:HttpGet("https://github.com/CatThatDrinksSprite/Moon-Convert/raw/main/Scripts/Main/scriptcmds.lua", true))()
 loadstring(game:HttpGet("https://github.com/CatThatDrinksSprite/Moon-Convert/raw/main/Scripts/Other/sendNotification.lua", true))()
 print(game.PlaceId)
-if game.PlaceId == 168556275 or game.PlaceId == 12068120918 or game.PlaceId == 12334109280 or game.PlaceId == 15278322858 then
+if game.PlaceId == 168556275 or game.PlaceId == 12068120918 or game.PlaceId == 12334109280 or game.PlaceId == 15278322858 or game.PlaceId == 12068280773 then
 	print("good")
 else
 	sendNotification("Moon Convert", "game isnt supported brahhh!!! msg zane lalala", 7)
